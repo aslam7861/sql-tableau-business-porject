@@ -1,2 +1,2 @@
 # sql-tableau-business-porject
-Data analysis of two companies based on MySQL and Tableau
+We discuss here some problems with solutions
